@@ -1,2 +1,2 @@
 # VHDL-Projects
-Public repository to share projects in Hardware Description Language
+Repositório público de projetos em VHDL desenvolvidos durante o curso PCS3225
